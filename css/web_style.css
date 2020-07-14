@@ -1,0 +1,17 @@
+h1,h3{
+  color: #4f3961;
+}
+hr {
+  border: dotted #e79cc2 6px;
+  width: 5%;
+
+  border-bottom: none;
+
+}
+img{
+  border-radius: 100%;
+
+}
+#profile:hover{
+background-color:#1dd3bd;
+}
